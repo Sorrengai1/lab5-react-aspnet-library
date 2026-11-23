@@ -26,4 +26,5 @@ npm run dev
 
 ## Адреси
 - Сервер: http://localhost:5216
+- 
 - Клієнт: http://localhost:5173
