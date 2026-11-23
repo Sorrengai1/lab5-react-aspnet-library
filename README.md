@@ -8,14 +8,20 @@
 - client — клієнт React.js
 
 ## Запуск серверної частини
+
 cd ReactApp
+
 dotnet restore
+
 dotnet run
 
 ## Запуск клієнтської частини
 В окремому терміналі:
+
 cd client
+
 npm ci
+
 npm run dev
 
 ## Адреси
